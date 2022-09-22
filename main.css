@@ -1,0 +1,70 @@
+.form-control{
+    max-width: 100%;
+}
+.card{
+    display: flex;
+    margin-left: 40%;
+    border-radius: 100%;
+    border-color: red;
+}
+
+.newacct{
+    margin-top: 17px;
+    width: auto;
+
+
+}
+
+.form-label{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 2%;
+
+}
+
+.forgotpswd{
+    margin-left:35%;
+
+}
+
+img{
+    display: flex;
+    margin-left:  40.5%;
+    margin-top: 2%;
+    width: 300px;
+}
+
+h6:before,
+h6:after {
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+  
+}
+
+h6:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+h6:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+.Special{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 28%;
+    color: grey;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'amazon things';
+    src: url();
+}
